@@ -11,49 +11,72 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Jiangsu Univeristy, 2015
+* M.S. in University of Melbourne, 2019
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Familiar with Java (Swing, JUnit), C++ (socket, MFC) and Python (sklearn, tensorflow)
+* Familiar with multithreaded programming, as well as Object-Oriented Programming and Functional Programming, have good coding styles
+* Familiar with Linux commands, git operations and basic usage of gcc and vim
+* Familiar with Data Structure and Algorithms (LinkedList, Stack, Queue, Binary Tree, Divide and Conquer, Dynamic Programming etc), as well as networks (TCP, UDP, HTTP etc)
+* Familiar with MySQL Database and basic knowledge of Redis; know about common database optimize strategies
+* Familiar with cryptography (symmetric encryption and asymmetric encryption), and common Web attacks and their defence strategies (SQL injection, XSS attack etc)
+* Know about machine learning (KNN, SVM etc) and distribution systems (Vector clocks, Leader election algorithm, Mutual exclusion algorithm, 2PC etc)
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+-   MVCC Algorithms Implementation (2020.04 - 2020.06)
+
+    Task: Simulate a database, and implement the MVCC Algorithm from scratch to ensure data consistency.
+
+    Isolation level is Read Committed. Each transaction can only access the committed data of other transactions;
+
+    When the read operation of one transaction conflicts with write operation of another transaction, it will get the previous version of data and another transaction will fail and rollback automatically.
+
+    Results: It can ensure data consistency and prevent dirty read.
+
+    Responsibility: data transmission module and core concurrency control algorithm
+
+-   Distributed Shared Whiteboard System (2019.09 - 2019.11)
+
+    Task: Design a distributed system so that multiple users can draw and chat simultaneously.
+
+    Recording and broadcasting the operation of drawing board in the form of Json when a client draws a pixel, so that data consistency in distributed systems can be ensured;
+
+    Using AES to encrypt messages during transmission. When reading records from file, it will use SHA-256 to verify digest of the file.
+
+    Results: It can reach the anticipated results and handle fewer than 50 clients of concurrency volume.
+
+    Responsibility: Drawing board function designing, data encryption and digest verification
+
+-   Electronic Document Management Platform (2019.02 - 2019.06)
+
+    Task: Design a platform to store and manage electronic documents, with multiversion management functions.
+
+    The server saves all versions of different documents, and the transmission of data is implemented by using TCP protocol. FTP protocol is used for transmitting documents;
+
+    The messages and documents are encrypted with AES algorithm. When downloading documents, SHA-256 is used to ensure integrity of the documents;
+
+    Meanwhile, RBAC and backup and recovery skills are used to enhance the platform security.
+
+    Skills: WinForm + SQL Server
+
+    Results: This project has implemented a secure multiversion document management platform.
+
+Rewards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+
+-   Study Scholarship and Triple-A Student for Academic Year 2017-2018, 2nd Prize
+-   Lanqiao Software and Information Technology Competition, 3rd Prize
+-   Study Scholarship and Triple-A Student for Academic Year 2016-2017, 1st Prize
+-   National English Competition for College Students, 3rd Prize
+-   Cyber Security Competition at Jiangsu University, ranked 3rd
+-   13th Mathematics Competition, 3rd Prize
+
+Professional Qualifications
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+-   Languages: Chinese (native); English: IELTS (Overall 7.0); CET-6 (Overall 559)
+-   IT: Level 3, National Computer Rank Examination
