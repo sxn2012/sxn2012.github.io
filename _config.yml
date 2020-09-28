@@ -85,8 +85,8 @@ author:
   bio              : "Graduate Student, School of Computing & Information Systems, University of Melbourne,"
   location         : "Melbourne, VIC, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            : "xinnan.shen@outlook.com.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xinnanshen/"
-  orcid            : ""
+  linkedin         : "xinnanshen"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -187,12 +187,12 @@ collections:
 #  talks:
 #    output: true
 #    permalink: /:collection/:path/
-  education:
-    output: true
-    permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
+#  education:
+#    output: true
+#    permalink: /:collection/:path/
+#  projects:
+#    output: true
+#    permalink: /:collection/:path/
 
 # Defaults
 defaults:
