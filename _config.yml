@@ -11,7 +11,7 @@ title                    : "Xinnan Shen's Personal Page"
 title_separator          : "-"
 name                     : &name "Xinnan Shen"
 description              : &description "Graduate Student in The University of Melbourne"
-url                      : https://sxn2012.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sxn2012.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sxn2012/sxn2012.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/xinnanshen"
+  facebook         : "xinnanshen"
   foursquare       :
   github           : "sxn2012"
   google_plus      :
@@ -102,14 +102,14 @@ author:
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xinnanshen/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "xinnanshen/"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/xinnanshen"
+  twitter          : "xinnanshen"
   vine             :
   weibo            :
   xing             :
@@ -175,19 +175,24 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
+#  publications:
+#    output: true
+#    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
+  education:
     output: true
     permalink: /:collection/:path/
-  publications:
+  projects:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -212,7 +217,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: education
     values:
       layout: single
       author_profile: true
@@ -221,7 +226,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: projects
     values:
       layout: single
       author_profile: true
