@@ -29,6 +29,8 @@ Projects
 
 -   MVCC Algorithms Implementation (2020.04 - 2020.06)
 
+    source code: https://github.com/sxn2012/DA2020S1_Project
+
     Task: Simulate a database, and implement the MVCC Algorithm from scratch to ensure data consistency.
 
     Isolation level is Read Committed. Each transaction can only access the committed data of other transactions;
@@ -40,6 +42,8 @@ Projects
     Responsibility: data transmission module and core concurrency control algorithm
 
 -   Distributed Shared Whiteboard System (2019.09 - 2019.11)
+
+    source code: https://github.com/Tosnower/DS2019S2_Assignment2
 
     Task: Design a distributed system so that multiple users can draw and chat simultaneously.
 
@@ -53,6 +57,8 @@ Projects
 
 -   Electronic Document Management Platform (2019.02 - 2019.06)
 
+    source code: https://github.com/sxn2012/ujs_security/tree/master/code/courses-ujs/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1
+
     Task: Design a platform to store and manage electronic documents, with multiversion management functions.
 
     The server saves all versions of different documents, and the transmission of data is implemented by using TCP protocol. FTP protocol is used for transmitting documents;
@@ -62,7 +68,7 @@ Projects
     Meanwhile, RBAC and backup and recovery skills are used to enhance the platform security.
 
     Skills: WinForm + SQL Server
-
+    
     Results: This project has implemented a secure multiversion document management platform.
 
 Rewards
