@@ -6,6 +6,8 @@ tags:
   - discuss
 ---
 
+This is my first blog.
+
 Hello World
 ======
 
