@@ -13,7 +13,7 @@ Education
 ======
 * B.Eng. in [Jiangsu Univeristy](https://eng.ujs.edu.cn/), 2015
 
-    Major: Information Security
+    Major: [Information Security](https://cs.ujs.edu.cn/info/1067/3554.htm)
 
     Core Modules: Database Security, IOT Security, Cryptography Principles, Networks and Systems Security
 
@@ -23,11 +23,13 @@ Education
 
 * M.S. in [University of Melbourne](https://www.unimelb.edu.au/), 2019
 
-    Major: Computer Science
+    Major: [Computer Science](https://handbook.unimelb.edu.au/2020/courses/mc-scicmp)
 
-    Core Modules: Machine Learning, Distributed Systems, Natural Language Processing, Quantum Computing
+    Core Modules: Statistical Machine Learning, Distributed Systems, Natural Language Processing, Quantum Computing
     
-    Research Topic: Statistical Machine Learning
+    Research Topic: Machine Learning
+    
+    Supervisors: [Ben Rubinstein](http://www.bipr.net/), [Renata Borovica-Gajic](http://renata.borovica-gajic.com/)
 
 Skills
 ======
