@@ -75,11 +75,17 @@ Projects
     Details:
 
     1.  The server saves all versions of different documents, and the transmission of data is implemented by using TCP protocol. FTP protocol is used for transmitting documents;
-2.  The messages and documents are encrypted with AES algorithm. When downloading documents, SHA-256 is used to ensure integrity of the documents;
+
+        
+
+    2.  The messages and documents are encrypted with AES algorithm. When downloading documents, SHA-256 is used to ensure integrity of the documents;
+
+        
+    
     3.  Meanwhile, RBAC and backup and recovery skills are used to enhance the platform security.
-
+    
     Skills: WinForm + SQL Server
-
+    
     Results: This project has implemented a secure multiversion document management platform.
     
     
