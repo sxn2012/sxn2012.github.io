@@ -13,6 +13,8 @@ Education
 ======
 * B.Eng. in [Jiangsu Univeristy](https://eng.ujs.edu.cn/), 2015
 
+    Major: Information Security
+
     Core Modules: Database Security, IOT Security, Cryptography Principles, Networks and Systems Security
 
     GPA：3.89/5.0, Ranking：2/56
@@ -21,8 +23,10 @@ Education
 
 * M.S. in [University of Melbourne](https://www.unimelb.edu.au/), 2019
 
-    Core Modules: Machine Learning, Distributed Systems, Natural Language Processing, Quantum Computing
+    Major: Computer Science
 
+    Core Modules: Machine Learning, Distributed Systems, Natural Language Processing, Quantum Computing
+    
     Research Topic: Statistical Machine Learning
 
 Skills
