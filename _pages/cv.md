@@ -11,8 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Jiangsu Univeristy, 2015
-* M.S. in University of Melbourne, 2019
+* B.Eng. in [Jiangsu Univeristy](https://eng.ujs.edu.cn/), 2015
+
+    Core Modules: Database Security, IOT Security, Cryptography Principles, Networks and Systems Security
+
+    GPA：3.89/5.0, Ranking：2/56
+
+    Supervisor: [Conghua Zhou](https://cs.ujs.edu.cn/info/1348/7371.htm)
+
+* M.S. in [University of Melbourne](https://www.unimelb.edu.au/), 2019
+
+    Core Modules: Machine Learning, Distributed Systems, Natural Language Processing, Quantum Computing
+
+    Research Topic: Statistical Machine Learning
 
 Skills
 ======
@@ -29,7 +40,7 @@ Projects
 
 -   MVCC Algorithms Implementation (2020.04 - 2020.06)
 
-    source code: https://github.com/sxn2012/DA2020S1_Project
+    [source code](https://github.com/sxn2012/DA2020S1_Project)
 
     Task: Simulate a database, and implement the MVCC Algorithm from scratch to ensure data consistency.
 
@@ -43,7 +54,7 @@ Projects
 
 -   Distributed Shared Whiteboard System (2019.09 - 2019.11)
 
-    source code: https://github.com/Tosnower/DS2019S2_Assignment2
+    [source code](https://github.com/Tosnower/DS2019S2_Assignment2)
 
     Task: Design a distributed system so that multiple users can draw and chat simultaneously.
 
@@ -57,7 +68,7 @@ Projects
 
 -   Electronic Document Management Platform (2019.02 - 2019.06)
 
-    source code: https://github.com/sxn2012/ujs_security/tree/master/code/courses-ujs/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1
+    [source code](https://github.com/sxn2012/ujs_security/tree/master/code/courses-ujs/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1)
 
     Task: Design a platform to store and manage electronic documents, with multiversion management functions.
 
@@ -74,12 +85,12 @@ Projects
 Rewards
 ======
 
--   Study Scholarship and Triple-A Student for Academic Year 2017-2018, 2nd Prize
--   Lanqiao Software and Information Technology Competition, 3rd Prize
--   Study Scholarship and Triple-A Student for Academic Year 2016-2017, 1st Prize
--   National English Competition for College Students, 3rd Prize
--   Cyber Security Competition at Jiangsu University, ranked 3rd
--   13th Mathematics Competition, 3rd Prize
+-   Study Scholarship and Triple-A Student for Academic Year 2017-2018, 2nd Prize (2018.12)
+-   Lanqiao Software and Information Technology Competition, 3rd Prize (2018.04)
+-   Study Scholarship and Triple-A Student for Academic Year 2016-2017, 1st Prize (2017.12)
+-   National English Competition for College Students, 3rd Prize (2017.05)
+-   Cyber Security Competition at Jiangsu University, ranked 3rd (2016.12)
+-   13th Mathematics Competition, 3rd Prize (2016.08)
 
 Professional Qualifications
 ======
