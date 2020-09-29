@@ -46,9 +46,10 @@ Projects
 
     Task: Simulate a database, and implement the MVCC Algorithm from scratch to ensure data consistency.
 
-    Isolation level is Read Committed. Each transaction can only access the committed data of other transactions;
+    Details:
 
-    When the read operation of one transaction conflicts with write operation of another transaction, it will get the previous version of data and another transaction will fail and rollback automatically.
+    1.  Isolation level is Read Committed. Each transaction can only access the committed data of other transactions;
+    2.  When the read operation of one transaction conflicts with write operation of another transaction, it will get the previous version of data and another transaction will fail and rollback automatically.
 
     Results: It can ensure data consistency and prevent dirty read.
 
@@ -58,9 +59,10 @@ Projects
 
     Task: Design a distributed system so that multiple users can draw and chat simultaneously.
 
-    Recording and broadcasting the operation of drawing board in the form of Json when a client draws a pixel, so that data consistency in distributed systems can be ensured;
+    Details:
 
-    Using AES to encrypt messages during transmission. When reading records from file, it will use SHA-256 to verify digest of the file.
+    1.  Recording and broadcasting the operation of drawing board in the form of Json when a client draws a pixel, so that data consistency in distributed systems can be ensured;
+    2.  Using AES to encrypt messages during transmission. When reading records from file, it will use SHA-256 to verify digest of the file.
 
     Results: It can reach the anticipated results and handle fewer than 50 clients of concurrency volume.
 
@@ -70,11 +72,11 @@ Projects
 
     Task: Design a platform to store and manage electronic documents, with multiversion management functions.
 
-    The server saves all versions of different documents, and the transmission of data is implemented by using TCP protocol. FTP protocol is used for transmitting documents;
+    Details:
 
-    The messages and documents are encrypted with AES algorithm. When downloading documents, SHA-256 is used to ensure integrity of the documents;
-
-    Meanwhile, RBAC and backup and recovery skills are used to enhance the platform security.
+    1.  The server saves all versions of different documents, and the transmission of data is implemented by using TCP protocol. FTP protocol is used for transmitting documents;
+2.  The messages and documents are encrypted with AES algorithm. When downloading documents, SHA-256 is used to ensure integrity of the documents;
+    3.  Meanwhile, RBAC and backup and recovery skills are used to enhance the platform security.
 
     Skills: WinForm + SQL Server
 
