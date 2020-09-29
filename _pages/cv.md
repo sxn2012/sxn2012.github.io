@@ -11,6 +11,18 @@ redirect_from:
 
 Education
 ======
+* M.S. in [University of Melbourne](https://www.unimelb.edu.au/), 2019
+
+    Major: [Computer Science](https://handbook.unimelb.edu.au/2020/courses/mc-scicmp)
+
+    Core Modules: Statistical Machine Learning, Distributed Systems, Natural Language Processing, Quantum Computing
+
+    Research Topic: Machine Learning
+
+    Supervisors: [Ben Rubinstein](http://www.bipr.net/), [Renata Borovica-Gajic](http://renata.borovica-gajic.com/)
+
+    
+
 * B.Eng. in [Jiangsu Univeristy](https://eng.ujs.edu.cn/), 2015
 
     Major: [Information Security](https://cs.ujs.edu.cn/info/1067/3554.htm)
@@ -21,15 +33,7 @@ Education
 
     Supervisor: [Conghua Zhou](https://cs.ujs.edu.cn/info/1348/7371.htm)
 
-* M.S. in [University of Melbourne](https://www.unimelb.edu.au/), 2019
-
-    Major: [Computer Science](https://handbook.unimelb.edu.au/2020/courses/mc-scicmp)
-
-    Core Modules: Statistical Machine Learning, Distributed Systems, Natural Language Processing, Quantum Computing
     
-    Research Topic: Machine Learning
-    
-    Supervisors: [Ben Rubinstein](http://www.bipr.net/), [Renata Borovica-Gajic](http://renata.borovica-gajic.com/)
 
 Skills
 ======
