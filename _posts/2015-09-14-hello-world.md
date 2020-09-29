@@ -15,7 +15,7 @@ This is my first blog!
 
 Welcome to my Personal Website!
 
-This website is used for record my learning steps and experience towards an professional programmer (maybe major in backend or application developer). In this blog, I will show the most detailed ways of learning and developing a software. Some code might be too long and I may put a link on GitHub for every reader to access (instead of writing directly on the blog).
+This website is used to record my learning steps and experience towards a professional programmer (maybe major in backend or application developer). In this blog, I will show the most detailed ways of learning and development knowledges. Some code might be too long and I may put a link on GitHub for every reader to access (instead of writing directly on the blog).
 
 In my blog, I will cover different aspects of topics, including:
 
