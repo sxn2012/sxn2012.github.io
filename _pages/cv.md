@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+updated in 28 Sept 2020
+
 Education
 ======
 * M.S. in [University of Melbourne](https://www.unimelb.edu.au/), 2019
