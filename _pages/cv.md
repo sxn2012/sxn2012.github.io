@@ -13,7 +13,7 @@ updated in 28 Sept 2020
 
 Education
 ======
-* M.S. in [University of Melbourne](https://www.unimelb.edu.au/), 2019
+* Master of Science in [University of Melbourne](https://www.unimelb.edu.au/), 2019-2021
 
     Major: [Computer Science](https://handbook.unimelb.edu.au/2020/courses/mc-scicmp)
 
@@ -25,7 +25,7 @@ Education
 
     
 
-* B.Eng. in [Jiangsu Univeristy](https://eng.ujs.edu.cn/), 2015
+* Bachelor of Engineering in [Jiangsu Univeristy](https://eng.ujs.edu.cn/), 2015-2019
 
     Major: [Information Security](https://cs.ujs.edu.cn/info/1067/3554.htm)
 
